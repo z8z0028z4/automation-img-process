@@ -1,0 +1,11 @@
+# ImageJ Metadata
+.DS_Store
+Thumbs.db
+
+# Output data (optional, depends on if you want to store results in git)
+# *processed.png
+# *_data.csv
+
+# Backups
+*.bak
+*.tmp
